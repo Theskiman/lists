@@ -1,0 +1,11 @@
+C:\Users\Cliff\backend\lists\obj\Debug\netcoreapp2.2\test-c#.csprojAssemblyReference.cache
+C:\Users\Cliff\backend\lists\obj\Debug\netcoreapp2.2\test-c#.csproj.CoreCompileInputs.cache
+C:\Users\Cliff\backend\lists\obj\Debug\netcoreapp2.2\test-c#.AssemblyInfoInputs.cache
+C:\Users\Cliff\backend\lists\obj\Debug\netcoreapp2.2\test-c#.AssemblyInfo.cs
+C:\Users\Cliff\backend\lists\bin\Debug\netcoreapp2.2\test-c#.deps.json
+C:\Users\Cliff\backend\lists\bin\Debug\netcoreapp2.2\test-c#.runtimeconfig.json
+C:\Users\Cliff\backend\lists\bin\Debug\netcoreapp2.2\test-c#.runtimeconfig.dev.json
+C:\Users\Cliff\backend\lists\bin\Debug\netcoreapp2.2\test-c#.dll
+C:\Users\Cliff\backend\lists\bin\Debug\netcoreapp2.2\test-c#.pdb
+C:\Users\Cliff\backend\lists\obj\Debug\netcoreapp2.2\test-c#.dll
+C:\Users\Cliff\backend\lists\obj\Debug\netcoreapp2.2\test-c#.pdb
